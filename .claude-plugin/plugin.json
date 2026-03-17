@@ -1,0 +1,13 @@
+{
+  "name": "aleo-skills",
+  "version": "0.1.0",
+  "description": "Agent skills for Aleo/Leo blockchain development — Leo programs, @provablehq/sdk, wallet integration, ZK privacy patterns, testing, and deployment.",
+  "author": {
+    "name": "makemesteaks",
+    "url": "https://github.com/makemesteaks"
+  },
+  "repository": "https://github.com/makemesteaks/aleo-skills",
+  "license": "MIT",
+  "keywords": ["aleo", "leo", "zk", "blockchain", "smart-contracts", "privacy"],
+  "skills": "./"
+}
